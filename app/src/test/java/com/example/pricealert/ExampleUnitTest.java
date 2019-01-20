@@ -1,4 +1,4 @@
-package com.example.testscrape;
+package com.example.pricealert;
 
 import org.junit.Test;
 
